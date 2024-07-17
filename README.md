@@ -1,5 +1,5 @@
 - 👋 Hi!
 - 😃 Welcome to my GitHub Account.
 - 👩‍🎓 I'm a postgraduate in Cyber Security. 
-- 💻 I’m currently working on Python, Django, HTML, CSS, Javascript and AI related software projects.
+- 💻 I’m currently working on Python, Django, Flask, HTML, CSS, Javascript and AI related software projects.
 - 💞️ I’m looking for a career change where I can enhance my software development skills and data analytics while utilising cyber security knowledge simultaneously.
