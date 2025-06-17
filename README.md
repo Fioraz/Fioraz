@@ -6,4 +6,4 @@
 
 👩‍💻 I’m currently working as a Full-stack AI Engineer.
 
-💻 I’m working on Python, Django, Flask, HTML, CSS, JavaScript, and AI/ML related projects.
+💻 I’m working on Python, Django, Flask, HTML, CSS, JavaScript, and AI/ML (Tensorflow, PyTorch) related projects.
